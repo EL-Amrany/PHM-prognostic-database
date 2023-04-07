@@ -7,4 +7,14 @@ The data is from all available sensors and are all raw values. The total number 
 Data Set GitHub Link : https://www.kaggle.com/datasets/anseldsouza/water-pump-rul-predictive-maintenance
 
 
+| Metric                                        | Value  |
+| --------------------------------------------  | ------ |
+| Number of features                            | 52     |
+| Number of pumps                               | 7      |
+| Min length of run-to-failure records          | 7354   |
+| Max length of run-to-failure records          | 50249  |
+| Mean length of run-to-failure records         | 24880  |
+
+
+
 
