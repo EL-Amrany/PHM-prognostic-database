@@ -6,6 +6,8 @@ It consists of hourly average of voltage, rotation, pressure, and vibration coll
 
 Data Set Link: https://www.kaggle.com/datasets/arnabbiswas1/microsoft-azure-predictive-maintenance
 
+above is an overview about the dataset
+
 
 | Metric                               | Value |
 | --------------------------------     | ----- |
