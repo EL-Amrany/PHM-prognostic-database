@@ -5,7 +5,9 @@ This dataset contains a total of  15064 data points for 14 Batteries including 7
 
 Link to the data Set : https://github.com/SuryaPrakash2/DATA-DRIVEN-APPROACH-FOR-PREDICTION-OF-REMAINING-USEFUL-LIFE-RUL-OF-LI-ION-BATTERY/blob/main/Battery_RUL.csv
 
-below is an overviw about the dataset:
+#Dataset overview
+
+below is an overviw of the dataset:
 
 | Metric                                      | Value |
 | -----------------------------------------   | ----- |
