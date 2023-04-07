@@ -8,5 +8,19 @@ We can use the test data in order to estimate the remaining useful life because 
 
 Data Set Citation: Hagmeyer, S., Mauthe, F., & Zeiler, P. (2021). Creation of Publicly Available Data Sets for Prognostics and Diagnostics Addressing Data Scenarios Relevant to Industrial Applications. International Journal of Prognostics and Health Management, Volume 12, Issue 2, DOI: 10.36001/ijphm.2021.v12i2.3087.
 
+# Dataset Overview
+
+Below is an overview of the dataset:
+
+| Metric                                        | Value  |
+| --------------------------------------------  | ------ |
+| Number of features                            | 52     |
+| Number of pumps                               | 7      |
+| Min length of run-to-failure records          | 7354   |
+| Max length of run-to-failure records          | 50249  |
+| Mean length of run-to-failure records         | 24880  |
+
+
+
 
 
